@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd747127-9710-46bf-8883-0ab3b981ca22" name="Default Changelist" comment="" />
+    <list default="true" id="bd747127-9710-46bf-8883-0ab3b981ca22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +109,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -116,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602490202659</updated>
-      <workItem from="1602490208643" duration="10801000" />
+      <workItem from="1602490208643" duration="12399000" />
     </task>
     <task id="LOCAL-00001" summary="try1">
       <created>1602556311320</created>
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602556311320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="try2">
+      <created>1602557291783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602557291783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="try1" />
-    <option name="LAST_COMMIT_MESSAGE" value="try1" />
+    <MESSAGE value="try2" />
+    <option name="LAST_COMMIT_MESSAGE" value="try2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="26" key="#Assign_Data_Sources" timestamp="1602495414046">
@@ -152,18 +162,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1602496264412" />
-    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1602556307883">
+    <state x="279" y="0" key="CommitChangelistDialog2" timestamp="1602557287013">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602556307883" />
+    <state x="279" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602557287013" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1602557131020">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602557131020" />
-    <state x="546" y="258" key="Github.ShareDialog" timestamp="1602556206034">
+    <state x="546" y="258" key="Github.ShareDialog" timestamp="1602558810437">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="546" y="258" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1602556206034" />
+    <state x="546" y="258" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1602558810437" />
     <state x="443" y="73" key="Github.UntrackedFilesDialog" timestamp="1602555462372">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -208,5 +218,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="180" y="0" width="1186" height="738" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602555230657" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1602557956938">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602557956938" />
+    <state x="481" y="232" key="git4idea.rebase.GitRebaseDialog" timestamp="1602557833220">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="481" y="232" key="git4idea.rebase.GitRebaseDialog/0.0.1366.738@0.0.1366.738" timestamp="1602557833220" />
+    <state x="513" y="159" key="svn.repositoryBrowser" timestamp="1602557793663">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="159" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1602557793663" />
   </component>
 </project>
